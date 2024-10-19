@@ -20,7 +20,7 @@ Welcome, future developers! This guide is your ultimate **roadmap** to mastering
 
 | **Technology**       | **Roadmap** |
 |----------------------|-------------|
-| **Android Studio**   | [Android Studio Roadmap](./Android-Development/Android-Studio-Roadmap.md) |
+| **Android Studio**   | [Android Studio Roadmap](Android-Studio-Roadmap.md) |
 | **Flutter**          | [Flutter Roadmap](./Flutter-Development/Flutter-Roadmap.md) |
 | **React Native**     | [React Native Roadmap](./React-Native-Development/React-Native-Roadmap.md) |
 | **Figma**            | [Figma Roadmap](./UI-UX-Design/Figma-Roadmap.md) |
