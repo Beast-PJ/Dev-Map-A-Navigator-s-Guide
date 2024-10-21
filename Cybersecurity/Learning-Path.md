@@ -81,6 +81,10 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 
 3. **🔍 Practice with CTF Challenges**:
    - 📘 [Capture The Flag – TryHackMe](https://tryhackme.com/)
+   - 📘 [PicoCTF: Great for students and beginners](https://picoctf.com/)
+   - 📘 [RootMe: Practice with real vulnerabilities](https://www.root-me.org/)
+   - 📘 [OverTheWire: Classic wargames to build your foundational skills](https://overthewire.org/wargames/)
+  
 
 4. **🚀 Build Your First Pen Test Report**:
    - 💡 **Project Idea**: Perform a **Penetration Test** on a vulnerable web application and document the findings.

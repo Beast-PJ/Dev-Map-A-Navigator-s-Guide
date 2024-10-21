@@ -29,6 +29,10 @@ Begin your journey by understanding the basics of ethical hacking, including wha
    - 📖 [Networking Fundamentals](https://www.comptia.org/content/guides/networking-basics)
    - 🎥 [Networking for Beginners](https://www.youtube.com/watch?v=qiQR5rTSshw)
    - 🛠️ **Practical Lab**: Set up a small home network and explore network devices.
+     
+4. **Operating System**
+   - 📖 [Introduction to Operating Systems & Types](https://www.geeksforgeeks.org/operating-systems/?ref=shm)
+   - 🎥[Linux & Windows Command Line for Ethical Hacking](https://www.youtube.com/watch?app=desktop&v=Rltbz1z-hLU)
 
 ---
 
