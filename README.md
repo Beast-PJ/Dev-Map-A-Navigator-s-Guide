@@ -91,5 +91,20 @@ Join our newsletter or Discord community for exclusive updates and discussion wi
 
 ## 🌟 Happy Coding!
 
-Made with ❤️ by **Beast PJ**  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beast-pj)  
+Here's a more attractive version with a **Made with ❤️ by Beast PJ** section and a **Contributors** section that displays GitHub IDs along with profile photos:
+
+---
+
+### Made with ❤️ by [**Beast PJ**](https://github.com/beast-pj)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beast-pj)
+
+---
+
+## 👥 **Contributors**
+
+Thank you to all the amazing contributors! 🎉
+
+| Contributor  | Profile |
+|--------------|---------|
+| ![Avatar](https://avatars.githubusercontent.com/beast-pj?s=100) | [**Beast PJ**](https://github.com/beast-pj) |
+| ![Avatar](https://avatars.githubusercontent.com/cybertusha?s=100) | [**SPY Tushar**](https://github.com/username1) 
