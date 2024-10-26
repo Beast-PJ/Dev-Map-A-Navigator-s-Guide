@@ -19,8 +19,8 @@ Welcome, future web developers! This roadmap provides a clear path through each 
 | **Path**          | **Roadmap**                                       |
 |-------------------|---------------------------------------------------|
 | **Frontend**      | [Frontend Development Roadmap](frontend-development.md)     |
-| **Backend**       | [Backend Development Roadmap](#-backend-development)       |
-| **Full Stack**    | [Full Stack Development Roadmap](#-full-stack-development) |
+| **Backend**       | [Backend Development Roadmap](backend-development.md)       |
+| **Full Stack**    | [Full Stack Development Roadmap](full-stack-development.md) |
 
 ---
 
