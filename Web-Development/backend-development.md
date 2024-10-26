@@ -1,7 +1,3 @@
-Here’s a comprehensive **Backend Development Roadmap**:
-
----
-
 # 🖥️ **Backend Development Roadmap**
 
 This **Backend Development Roadmap** will take you from foundational concepts to advanced techniques, helping you build reliable, scalable, and secure backends for web and mobile applications. Whether you’re a beginner or looking to level up, this roadmap has structured paths, practical labs, and valuable resources to guide your backend journey.
