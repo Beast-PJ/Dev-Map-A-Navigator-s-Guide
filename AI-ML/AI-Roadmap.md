@@ -175,8 +175,6 @@ Each area of AI offers exciting challenges and rewards. By following these roadm
 Connect, collaborate, and grow with fellow AI enthusiasts:
 - 🛠️ [Stack Overflow](https://stackoverflow.com/questions/tagged/ai)
 - 📱 [AI on Reddit](https://www.reddit.com/r/MachineLearning/)
-- 💬 [AI Development Discord
-
-](https://discord.gg/ai)
+- 💬 [AI Development Discord](https://discord.gg/ai)
 
 Happy coding! 🎉
