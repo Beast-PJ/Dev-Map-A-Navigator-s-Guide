@@ -18,12 +18,13 @@ Welcome, future developers! This guide is your ultimate **roadmap** to mastering
 
 ### 🛣️ Roadmap Overview
 
-| **Technology**       | **Roadmap** |
-|----------------------|-------------|
+| **Technology**       | **Roadmap**                                     |
+|----------------------|-------------------------------------------------|
 | **Android Studio**   | [Android Studio Roadmap](Android-Studio-Roadmap.md) |
-| **Flutter**          | [Flutter Roadmap](Flutter-Roadmap.md) |
+| **Flutter**          | [Flutter Roadmap](Flutter-Roadmap.md)           |
 | **React Native**     | [React Native Roadmap](React-Native-Roadmap.md) |
-| **Figma**            | [Figma Roadmap](Figma-Roadmap.md) |
+| **iOS Development**  | [iOS Development Roadmap](iOS-Development-Roadmap.md) |
+| **Figma**            | [Figma Roadmap](Figma-Roadmap.md)               |
 
 
 ---
@@ -53,6 +54,29 @@ Welcome, future developers! This guide is your ultimate **roadmap** to mastering
 
 5. **🏗️ Build Real-World Applications**:
    - 🛠️ Ideas: Weather App, Chat Application, Fitness Tracker.
+
+---
+### 🔰 **iOS Development**
+
+1. **🔧 Setup**:
+   - Install **Xcode** (available on the Mac App Store):
+     - 🔗 [Download Xcode](https://developer.apple.com/xcode/)
+
+2. **📚 Learn Swift**:
+   - **Swift Resources**:
+     - 🎥 [Swift Programming for Beginners – YouTube Playlist](https://www.youtube.com/playlist?list=PLrMv2ZojBbd3xtLRdTHDeXsZc4TZ8GR9H)
+
+3. **🔍 Understand iOS Fundamentals**:
+   - 📘 [SwiftUI Basics – Apple Developer](https://developer.apple.com/documentation/swiftui)
+   - 💡 **Project Idea**: Create a **Simple Calculator App**.
+     - 🎥 [Calculator App Tutorial – YouTube](https://www.youtube.com/watch?v=GRXKtEwFMxc)
+
+4. **🚀 Explore Advanced Concepts**:
+   - 🌐 [Networking with URLSession – YouTube Tutorial](https://www.youtube.com/watch?v=wktj-UWp0FE)
+   - 🎨 [iOS Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+
+5. **🏗️ Build Real-World Applications**:
+   - 🛠️ Ideas: Weather App, To-Do List, Expense Tracker.
 
 ---
 
@@ -142,7 +166,7 @@ Connect, collaborate, and grow with other developers:
 
 ### 💬 Let's Connect!
 Feel free to reach out and share your journey:
-- 📸 [Instagram](https://www.instagram.com/yourusername)
+- 📸 [Instagram](https://www.instagram.com/beast.pj)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
 
 Happy coding! 🎉
