@@ -108,7 +108,7 @@ Follow this roadmap to gain comprehensive web development skills and build amazi
 - 📱 [Developer Discord](https://discord.com/invite/developers)
 
 ### 💬 Let’s Connect!
-- 📸 [Instagram](https://www.instagram.com/yourusername)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📸 [Instagram](https://www.instagram.com/beast.pj)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-jadhav-112abb2ba)
 
 Ready to build the web? Let’s get started! 🎉

@@ -2,7 +2,7 @@
 
 Welcome to **Developer Roadmap & Guide** — your ultimate companion to becoming a rockstar developer! Whether you're stepping into the world of coding for the first time or mastering advanced fields like AI/ML and Blockchain, this guide has everything you need to level up. 🌟
 
-![Banner](https://via.placeholder.com/1000x250?text=Unlock+Your+Developer+Potential)
+
 
 ---
 
@@ -68,8 +68,8 @@ We believe in **community-driven growth**! Got an idea or want to contribute? Fo
 
 Want to stay updated on new resources, guides, and projects? Follow me on social media and never miss an update!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-112abb2ba)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beast.pj)
 
 ---
 
@@ -107,4 +107,4 @@ Thank you to all the amazing contributors! 🎉
 | Contributor  | Profile |
 |--------------|---------|
 | ![Avatar](https://avatars.githubusercontent.com/beast-pj?s=100) | [**Beast PJ**](https://github.com/beast-pj) |
-| ![Avatar](https://avatars.githubusercontent.com/cybertusha?s=100) | [**SPY Tushar**](https://github.com/username1) 
+| ![Avatar](https://avatars.githubusercontent.com/cybertusha?s=100) | [**SPY Tushar**](https://github.com/cybertusha) 

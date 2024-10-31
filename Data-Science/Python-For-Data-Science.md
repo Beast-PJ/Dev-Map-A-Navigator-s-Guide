@@ -167,7 +167,7 @@ https://discord.gg/datascience)
 
 ### 💬 Let's Connect!
 Feel free to reach out and share your journey:
-- 📸 [Instagram](https://www.instagram.com/yourusername)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📸 [Instagram](https://www.instagram.com/beast.pj)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-jadhav-112abb2ba)
 
 Happy coding and data wrangling! 🎉
