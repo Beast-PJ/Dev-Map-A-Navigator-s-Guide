@@ -30,19 +30,42 @@ Welcome to **Developer Roadmap & Guide** — your ultimate companion to becoming
 | 🔒 **Cybersecurity**       | [Security Learning Path](./Cybersecurity/Learning-Path.md)              |
 
 ---
-## 🗣️ **Languages**
 
-> Start your journey by mastering the essential programming languages for each field. 
 
-| **Language** | **Use Cases** | **Roadmap** |
-|--------------|---------------|-------------|
-| 🌐 **HTML, CSS, JavaScript** | Web Development | [Web Dev Language Guide](./Web-Development/Web-Dev-Languages.md) |
-| 🐍 **Python** | Data Science, AI, Machine Learning | [Python for Data Science](./Data-Science/Python-For-Data-Science.md) |
-| 💻 **Java, Kotlin** | Android Development | [Android Dev Languages](./Android-Development/Introduction.md) |
-| 🔗 **Solidity, Rust** | Blockchain Development | [Blockchain Language Guide](./Blockchain/Introduction.md) |
-| 🔧 **Bash, YAML** | DevOps | [DevOps Tools & Languages](./DevOps/Tools-Resources.md) |
+## 📘 Language Roadmap & Guides
+
+>Explore in-depth roadmaps for popular languages, covering essential concepts, resources, and projects to solidify your understanding. Start with the language of your choice and follow each guide step-by-step.
+
+| **🌐 Language**            | **Explore**                                                    |
+|----------------------------|----------------------------------------------------------------|
+| Python                     | [Python Development Roadmap](./Languages/Python.md)            |
+| JavaScript                 | [JavaScript Development Roadmap](./Languages/JavaScript.md)    |
+| Java                       | [Java Development Roadmap](./Languages/Java.md)                |
+| C++                        | [C++ Development Roadmap](./Languages/Cpp.md)                  |
+| C#                         | [C# Development Roadmap](./Languages/CSharp.md)                |
+| Swift                      | [Swift Development Roadmap](./Languages/Swift.md)              |
+| Ruby                       | [Ruby Development Roadmap](./Languages/Ruby.md)                |
+| PHP                        | [PHP Development Roadmap](./Languages/PHP.md)                  |
+| TypeScript                 | [TypeScript Development Roadmap](./Languages/TypeScript.md)    |
+| Rust                       | [Rust Development Roadmap](./Languages/Rust.md)                |
+| Go                         | [Go Development Roadmap](./Languages/Go.md)                    |
+| Kotlin                     | [Kotlin Development Roadmap](./Languages/Kotlin.md)            |
+| R                          | [R Programming Roadmap](./Languages/R.md)                      |
+| SQL                        | [SQL Development Roadmap](./Languages/SQL.md)                  |
+| Dart                       | [Dart Development Roadmap](./Languages/Dart.md)                |
 
 ---
+
+Each language guide includes:
+
+- 📖 **Core Concepts** — essential topics and fundamentals.
+- 🎥 **Video Tutorials** — curated content to solidify learning.
+- 🛠️ **Real-World Projects** — hands-on projects to reinforce skills.
+- 📚 **Further Reading** — advanced resources and reference material.
+
+--- 
+
+> Select a language above to start your journey, and unlock a detailed roadmap for each skill level from beginner to expert!
 ## 🎓 Why Follow This Guide?
 
 🌟 **Clear & Structured Learning:** Follow the right path and learn what matters.  
