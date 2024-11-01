@@ -2,8 +2,6 @@
 
 Welcome to **Developer Roadmap & Guide** — your ultimate companion to becoming a rockstar developer! Whether you're stepping into the world of coding for the first time or mastering advanced fields like AI/ML and Blockchain, this guide has everything you need to level up. 🌟
 
-
-
 ---
 
 ## 🚀 What's Inside?
@@ -15,22 +13,36 @@ Welcome to **Developer Roadmap & Guide** — your ultimate companion to becoming
 
 ---
 
+
+
 ## 🗺️ Explore Your Roadmap
 
 > Start your journey by picking a field below and dive deep into structured learning!
 
 | **💻 Field**             | **Explore**                                                               |
 |--------------------------|---------------------------------------------------------------------------|
-| 🌐 **Web Development**    | [Frontend & Backend Mastery](./Web-Development/Web-Dev-Roadmap.md)               |
-| 📊 **Data Science**       | [Data Science Roadmap](./Data-Science/Python-For-Data-Science.md)         |
-| 🤖 **AI & Machine Learning** | [AI/ML Journey](./AI-ML/AI-Roadmap.md)                             |
+| 🌐 **Web Development**    | [Frontend & Backend Mastery](./Web-Development/Web-Dev-Roadmap.md)       |
+| 📊 **Data Science**       | [Data Science Roadmap](./Data-Science/Python-For-Data-Science.md)        |
+| 🤖 **AI & Machine Learning** | [AI/ML Journey](./AI-ML/AI-Roadmap.md)                               |
 | 📱 **Android Development** | [Android with Java/Kotlin](./Android-Development/Introduction.md)       |
 | 🔗 **Blockchain Development** | [Blockchain Basics](./Blockchain/Introduction.md)                  |
 | 🛠️ **DevOps**             | [DevOps Mastery](./DevOps/DevOps-Roadmap.md)                             |
 | 🔒 **Cybersecurity**       | [Security Learning Path](./Cybersecurity/Learning-Path.md)              |
 
 ---
+## 🗣️ **Languages**
 
+> Start your journey by mastering the essential programming languages for each field. 
+
+| **Language** | **Use Cases** | **Roadmap** |
+|--------------|---------------|-------------|
+| 🌐 **HTML, CSS, JavaScript** | Web Development | [Web Dev Language Guide](./Web-Development/Web-Dev-Languages.md) |
+| 🐍 **Python** | Data Science, AI, Machine Learning | [Python for Data Science](./Data-Science/Python-For-Data-Science.md) |
+| 💻 **Java, Kotlin** | Android Development | [Android Dev Languages](./Android-Development/Introduction.md) |
+| 🔗 **Solidity, Rust** | Blockchain Development | [Blockchain Language Guide](./Blockchain/Introduction.md) |
+| 🔧 **Bash, YAML** | DevOps | [DevOps Tools & Languages](./DevOps/Tools-Resources.md) |
+
+---
 ## 🎓 Why Follow This Guide?
 
 🌟 **Clear & Structured Learning:** Follow the right path and learn what matters.  
@@ -107,4 +119,4 @@ Thank you to all the amazing contributors! 🎉
 | Contributor  | Profile |
 |--------------|---------|
 | ![Avatar](https://avatars.githubusercontent.com/beast-pj?s=100) | [**Beast PJ**](https://github.com/beast-pj) |
-| ![Avatar](https://avatars.githubusercontent.com/cybertusha?s=100) | [**SPY Tushar**](https://github.com/cybertusha) 
+| ![Avatar](https://avatars.githubusercontent.com/cybertusha?s=100) | [**SPY Tushar**](https://github.com/cybertusha)
