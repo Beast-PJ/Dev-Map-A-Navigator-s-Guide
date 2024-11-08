@@ -11,11 +11,11 @@ Swift is known for its simplicity, speed, and modern features, making it ideal f
    - Write a *"Hello, World!"* program to test your environment.
 
 ### 2. **Basic Syntax and Data Types**
-   - 🎥 [Swift Basics](https://www.youtube.com/watch?v=Uw4ZsK38jv4)
+   - 🎥 [Swift Programming Tutorial - Basics](https://www.youtube.com/watch?v=comQ1-x2a1Q)
    - 🛠️ **Mini Project**: Create a *simple calculator* for basic arithmetic operations.
 
 ### 3. **Control Flow (If/Else, Loops)**
-   - 🎥 [Control Flow in Swift](https://www.youtube.com/watch?v=4B9N5jTceMw)
+   - 🎥 [Swift Control Flow Tutorial](https://www.youtube.com/watch?v=ZmfhdA9GqM8)
    - 🛠️ **Mini Project**: Build a program that determines if a number is *prime*.
 
 ---
@@ -23,15 +23,15 @@ Swift is known for its simplicity, speed, and modern features, making it ideal f
 ## 🚀 Phase 2: Core Swift Concepts (1–2 Weeks)
 
 ### 1. **Functions and Closures**
-   - 🎥 [Swift Functions](https://www.youtube.com/watch?v=y9v4pNA2hZI)
+   - 🎥 [Swift Functions and Closures Tutorial](https://www.youtube.com/watch?v=gO9pWqYG4uk)
    - 🛠️ **Mini Project**: Develop a function-based *shopping list* application that adds, removes, and lists items.
 
 ### 2. **Optionals and Error Handling**
-   - 🎥 [Optionals in Swift](https://www.youtube.com/watch?v=O5lwUoPh5Cw)
+   - 🎥 [Understanding Optionals in Swift](https://www.youtube.com/watch?v=63I22bGV7oU)
    - 🛠️ **Mini Project**: Build a *simple authentication* system that safely checks user credentials.
 
 ### 3. **Collections (Arrays, Dictionaries, Sets)**
-   - 🎥 [Collections in Swift](https://www.youtube.com/watch?v=lPztjxURP0U)
+   - 🎥 [Swift Collections Tutorial](https://www.youtube.com/watch?v=l7Q1ukzHq3E)
    - 🛠️ **Mini Project**: Create a *contact list* where you can add, edit, and delete contacts.
 
 ---
@@ -39,15 +39,15 @@ Swift is known for its simplicity, speed, and modern features, making it ideal f
 ## ⚡ Phase 3: Intermediate Swift Concepts (2 Weeks)
 
 ### 1. **Classes, Structs, and Enums**
-   - 🎥 [Classes vs. Structs](https://www.youtube.com/watch?v=OfPLosTgFh4)
+   - 🎥 [Swift Classes vs. Structs](https://www.youtube.com/watch?v=2zUshgctFLs)
    - 🛠️ **Mini Project**: Develop a *simple game character system* using classes and structs.
 
 ### 2. **Protocols and Delegation**
-   - 🎥 [Swift Protocols](https://www.youtube.com/watch?v=JsQTZ1l1aXs)
+   - 🎥 [Swift Protocols and Delegation](https://www.youtube.com/watch?v=1PAniMN6_sQ)
    - 🛠️ **Mini Project**: Implement a *task manager* where tasks are managed using protocol-based delegation.
 
 ### 3. **Extensions and Generics**
-   - 🎥 [Swift Extensions & Generics](https://www.youtube.com/watch?v=F2cweYHXW_s)
+   - 🎥 [Swift Extensions & Generics Tutorial](https://www.youtube.com/watch?v=j9v0d44p9f4)
    - 🛠️ **Mini Project**: Create an *extension library* with custom utilities, like converting strings to dates.
 
 ---
@@ -55,15 +55,15 @@ Swift is known for its simplicity, speed, and modern features, making it ideal f
 ## 🔥 Phase 4: Advanced Swift and iOS Development (Ongoing)
 
 ### 1. **Memory Management (ARC)**
-   - 🎥 [Automatic Reference Counting](https://www.youtube.com/watch?v=X6znc6D7ZB0)
+   - 🎥 [Swift Memory Management](https://www.youtube.com/watch?v=4Umdxjqtw5Q)
    - 🛠️ **Mini Project**: Develop a memory-intensive app and practice using weak/strong references.
 
 ### 2. **Concurrency with Swift (async/await)**
-   - 🎥 [Swift Concurrency](https://www.youtube.com/watch?v=_GZ6nIRrLVM)
+   - 🎥 [Swift Concurrency (async/await)](https://www.youtube.com/watch?v=AS4K7F4_izs)
    - 🛠️ **Mini Project**: Build a *file downloader* that handles asynchronous downloads.
 
 ### 3. **SwiftUI Basics**
-   - 🎥 [SwiftUI Basics](https://www.youtube.com/watch?v=UYpF72sH5kE)
+   - 🎥 [SwiftUI Essentials Tutorial](https://www.youtube.com/watch?v=aGRdw4xDbhE)
    - 🛠️ **Mini Project**: Create a *basic SwiftUI weather app* that displays current weather data.
 
 ---
