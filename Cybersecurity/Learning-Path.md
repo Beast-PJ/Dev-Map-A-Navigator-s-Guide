@@ -19,13 +19,13 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 
 ### 🛣️ Roadmap Overview
 
-| **Cybersecurity Domain**         | **Roadmap**                              |
-|----------------------------------|------------------------------------------|
-| **Ethical Hacking**              | [Ethical Hacking Roadmap](Ethical-Hacking-Roadmap.md) |
-| **Network Security**             | [Network Security Roadmap](Network-Security-Roadmap.md) |
-| **Penetration Testing**          | [Penetration Testing Roadmap](Penetration-Testing-Roadmap.md) |
-| **Cloud Security**               | [Cloud Security Roadmap](Cloud-Security-Roadmap.md) |
-| **Incident Response & Forensics**| [Incident Response Roadmap](Incident-Response-Roadmap.md) |
+| **Cybersecurity Domain**          | **Roadmap**                                                   |
+| --------------------------------- | ------------------------------------------------------------- |
+| **Ethical Hacking**               | [Ethical Hacking Roadmap](Ethical-Hacking-Roadmap.md)         |
+| **Network Security**              | [Network Security Roadmap](Network-Security-Roadmap.md)       |
+| **Penetration Testing**           | [Penetration Testing Roadmap](Penetration-Testing-Roadmap.md) |
+| **Cloud Security**                | [Cloud Security Roadmap](Cloud-Security-Roadmap.md)           |
+| **Incident Response & Forensics** | [Incident Response Roadmap](Incident-Response-Roadmap.md)     |
 
 ---
 
@@ -34,16 +34,20 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 ### 💻 **Ethical Hacking**
 
 1. **🔧 Setup**:
-   - Install **Kali Linux**: 
+
+   - Install **Kali Linux**:
      - 🔗 [Download Kali Linux](https://www.kali.org/get-kali/)
 
 2. **📚 Learn the Basics of Hacking**:
+
    - 🎥 [Ethical Hacking for Beginners – YouTube Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGPYtKC5_7d-EA7Z234bgBMi)
 
 3. **🔍 Master Networking Concepts**:
+
    - 📘 [Learn Networking Basics – Cisco Academy](https://www.netacad.com/courses/networking)
 
 4. **🚀 Get Hands-On with Tools**:
+
    - 💡 **Project Idea**: Set up a **Virtual Lab** for practicing hacking skills using tools like **Nmap**, **Wireshark**, and **Metasploit**.
      - 🎥 [Virtual Lab Setup Tutorial](https://www.youtube.com/watch?v=kCGiL31Fndo)
 
@@ -55,13 +59,16 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 ### 🔐 **Network Security**
 
 1. **🔧 Setup**:
-   - Install **Wireshark** for Network Analysis: 
+
+   - Install **Wireshark** for Network Analysis:
      - 🔗 [Download Wireshark](https://www.wireshark.org/download.html)
 
 2. **📚 Learn Network Protocols**:
+
    - 🎥 [Introduction to Network Security – YouTube Playlist](https://www.youtube.com/playlist?list=PL4CNFPUkzGfWUXc11KJyt1ZrJYd0_QdPw)
 
 3. **🔍 Understand Firewalls and VPNs**:
+
    - 📘 [Learn About Firewalls – Cisco Documentation](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
 
 4. **🚀 Build Your First Security Plan**:
@@ -73,18 +80,20 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 ### 🛡️ **Penetration Testing**
 
 1. **🔧 Setup**:
-   - Install **Burp Suite** for Web Pen Testing: 
+
+   - Install **Burp Suite** for Web Pen Testing:
      - 🔗 [Download Burp Suite](https://portswigger.net/burp)
 
 2. **📚 Learn Vulnerability Assessment**:
+
    - 🎥 [Penetration Testing 101 – YouTube Playlist](https://www.youtube.com/playlist?list=PL4CNFPUkzGfWUXc11KJyt1ZrJYd0_QdPw)
 
 3. **🔍 Practice with CTF Challenges**:
+
    - 📘 [Capture The Flag – TryHackMe](https://tryhackme.com/)
    - 📘 [PicoCTF: Great for students and beginners](https://picoctf.com/)
    - 📘 [RootMe: Practice with real vulnerabilities](https://www.root-me.org/)
    - 📘 [OverTheWire: Classic wargames to build your foundational skills](https://overthewire.org/wargames/)
-  
 
 4. **🚀 Build Your First Pen Test Report**:
    - 💡 **Project Idea**: Perform a **Penetration Test** on a vulnerable web application and document the findings.
@@ -95,13 +104,16 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 ### ☁️ **Cloud Security**
 
 1. **🔧 Setup**:
+
    - Create a Free Account on **AWS**:
      - 🔗 [Get Started with AWS](https://aws.amazon.com/free)
 
 2. **📚 Learn Cloud Fundamentals**:
+
    - 📘 [AWS Cloud Security Documentation](https://aws.amazon.com/security/)
 
 3. **🔍 Master IAM and Encryption**:
+
    - 🌐 [AWS IAM and Encryption Tutorial](https://www.youtube.com/watch?v=WZNQjrVXvs4)
 
 4. **🚀 Deploy Secure Cloud Applications**:
@@ -113,13 +125,16 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 ### 🔎 **Incident Response & Forensics**
 
 1. **🔧 Setup**:
-   - Install **Autopsy** for Digital Forensics: 
+
+   - Install **Autopsy** for Digital Forensics:
      - 🔗 [Download Autopsy](https://www.sleuthkit.org/autopsy/)
 
 2. **📚 Learn Incident Response**:
+
    - 📘 [Incident Response Guide – NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
 3. **🔍 Master Digital Forensics**:
+
    - 🌐 [Introduction to Digital Forensics – YouTube Playlist](https://www.youtube.com/playlist?list=PL_Xd7HJG3cfLaAtZ_n5qYzF2bwHReWGGo)
 
 4. **🚀 Build a Forensics Report**:
@@ -133,12 +148,15 @@ Welcome, aspiring security experts! This guide is your ultimate **roadmap** to m
 Cybersecurity is a vast and constantly evolving field. By following these roadmaps, and diving into the provided resources, you’ll gain the skills to defend the digital landscape. Stay curious, practice often, and never stop learning!
 
 ### 🌐 Join the Cybersecurity Community!
+
 - 🛡️ [Cybersecurity Subreddit](https://www.reddit.com/r/cybersecurity/)
 - 💬 [Cybersecurity Discord](https://discord.com/invite/cybersecurity)
 
 ### 💬 Let’s Connect!
+
 Feel free to reach out and share your journey:
+
 - 📸 [Instagram](https://www.instagram.com/beast.pj)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-jadhav-112abb2ba)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh--jadhav)
 
 Stay secure and happy hacking! 🎉

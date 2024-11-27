@@ -16,11 +16,11 @@ Welcome, future web developers! This roadmap provides a clear path through each 
 
 ## 📅 Your Learning Path: Roadmap Overview
 
-| **Path**          | **Roadmap**                                       |
-|-------------------|---------------------------------------------------|
-| **Frontend**      | [Frontend Development Roadmap](frontend-development.md)     |
-| **Backend**       | [Backend Development Roadmap](backend-development.md)       |
-| **Full Stack**    | [Full Stack Development Roadmap](full-stack-development.md) |
+| **Path**       | **Roadmap**                                                 |
+| -------------- | ----------------------------------------------------------- |
+| **Frontend**   | [Frontend Development Roadmap](frontend-development.md)     |
+| **Backend**    | [Backend Development Roadmap](backend-development.md)       |
+| **Full Stack** | [Full Stack Development Roadmap](full-stack-development.md) |
 
 ---
 
@@ -29,23 +29,28 @@ Welcome, future web developers! This roadmap provides a clear path through each 
 ### 🎨 **Frontend Development**
 
 1. **🔧 Setup Basics**:
+
    - Install a code editor (**VSCode** or **Atom**):
      - 🔗 [Install VSCode](https://code.visualstudio.com/Download)
 
 2. **📚 Learn HTML & CSS**:
+
    - [HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
    - [CSS Basics](https://developer.mozilla.org/en-US/docs/Web/CSS)
    - 🎥 [HTML & CSS Crash Course – YouTube](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 3. **🎨 Master JavaScript Fundamentals**:
+
    - [JavaScript Basics](https://javascript.info/)
    - 🎥 [JavaScript Crash Course – YouTube](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 4. **📚 Advanced JavaScript & DOM Manipulation**:
+
    - [JavaScript ES6+](https://es6.io/)
    - 🎥 [DOM Manipulation – YouTube](https://www.youtube.com/watch?v=y17RuWkWdn8)
 
 5. **🚀 Dive into Frameworks (React, Vue, Angular)**:
+
    - [React Documentation](https://reactjs.org/)
    - [Vue Documentation](https://vuejs.org/)
    - [Angular Documentation](https://angular.io/)
@@ -59,18 +64,22 @@ Welcome, future web developers! This roadmap provides a clear path through each 
 ### 🔧 **Backend Development**
 
 1. **🔧 Choose Your Language (Node.js, Python, Java)**:
+
    - [Node.js Documentation](https://nodejs.org/en/docs/)
    - [Python for Backend](https://realpython.com/)
 
 2. **📚 Learn About Databases (SQL & NoSQL)**:
+
    - [SQL Basics](https://www.w3schools.com/sql/)
    - [MongoDB Basics](https://www.mongodb.com/)
 
 3. **📚 Dive into APIs & RESTful Services**:
+
    - [Understanding RESTful APIs](https://restfulapi.net/)
    - 🎥 [REST APIs with Express – YouTube](https://www.youtube.com/watch?v=FGpPMHh3nzs)
 
 4. **🔒 Master Authentication & Security**:
+
    - [JWT Authentication Guide](https://jwt.io/introduction/)
    - 🎥 [API Security Best Practices – YouTube](https://www.youtube.com/watch?v=4cDppjxfjns)
 
@@ -83,10 +92,12 @@ Welcome, future web developers! This roadmap provides a clear path through each 
 ### 🌐 **Full Stack Development**
 
 1. **🌉 Connect Frontend & Backend**:
+
    - [Connecting Frontend & Backend Tutorial](https://medium.com/)
    - 🎥 [Frontend + Backend Integration – YouTube](https://www.youtube.com/watch?v=Oh8mPbEqnCk)
 
 2. **🚀 Learn Deployment (Hosting & CI/CD)**:
+
    - [Deploying on Netlify](https://www.netlify.com/)
    - [Using GitHub Actions](https://docs.github.com/en/actions)
 
@@ -103,12 +114,14 @@ Follow this roadmap to gain comprehensive web development skills and build amazi
 ---
 
 ### 🌐 Join the Developer Community!
+
 - 🛠️ [GitHub](https://github.com/)
 - 💬 [Web Dev Reddit](https://www.reddit.com/r/webdev/)
 - 📱 [Developer Discord](https://discord.com/invite/developers)
 
 ### 💬 Let’s Connect!
+
 - 📸 [Instagram](https://www.instagram.com/beast.pj)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-jadhav-112abb2ba)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh--jadhav)
 
 Ready to build the web? Let’s get started! 🎉
