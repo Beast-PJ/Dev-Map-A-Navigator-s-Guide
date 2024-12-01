@@ -38,6 +38,7 @@ Welcome to **Developer Roadmap & Guide** — your ultimate companion to becoming
 | Python          | [Python Development Roadmap](./Languages/Python.md)         |
 | JavaScript      | [JavaScript Development Roadmap](./Languages/JavaScript.md) |
 | Java            | [Java Development Roadmap](./Languages/Java.md)             |
+| C               | [C++ Development Roadmap](./Languages/C.md)               |
 | C++             | [C++ Development Roadmap](./Languages/Cpp.md)               |
 | C#              | [C# Development Roadmap](./Languages/CSharp.md)             |
 | Swift           | [Swift Development Roadmap](./Languages/Swift.md)           |
